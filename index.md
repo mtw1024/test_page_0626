@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Apple
+! Banana
+~ Coffee
 
 1. Numbered
 2. List
