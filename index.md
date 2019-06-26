@@ -20,6 +20,7 @@ Syntax highlighted code block
 - Apple
 ! Banana
 ~ Coffee
+$ Dinter
 
 1. Numbered
 2. List
