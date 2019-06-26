@@ -18,9 +18,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 - Apple
-! Banana
-~ Coffee
-$ Dinter
+- ! Banana
+- ~ Coffee
+- $ Dinter
+
+- hello -
+
+# Header 4
 
 1. Numbered
 2. List
